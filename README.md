@@ -1,3 +1,4 @@
+
 # Trackr Time
 
 Trackr Time is a desktop time-tracking application built with Python, Flet,
@@ -6,6 +7,14 @@ SQLite, and system notifications.
 Current version: `v0.0.1` (`2026-08-12`)
 
 ## Features
+
+<img width="1254" height="1125" alt="Capture d’écran du 2026-08-14 12-27-06" src="https://github.com/user-attachments/assets/35c7bd57-0522-4c16-aecb-7767f59b5f52" />
+<img width="1254" height="1125" alt="Capture d’écran du 2026-08-14 12-27-16" src="https://github.com/user-attachments/assets/545610c6-d705-40a1-b15a-a2a58f7b7bbf" />
+<img width="1254" height="1125" alt="Capture d’écran du 2026-08-14 12-27-23" src="https://github.com/user-attachments/assets/784e93d4-1eee-4c51-af9c-6699f5f06d3e" />
+
+
+
+
 
 - Project and task management with statuses, time estimates, and tags.
 - Timer with editable session history and notes.
